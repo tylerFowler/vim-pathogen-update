@@ -16,5 +16,5 @@ update-bundles ~/my-bundle-path
 ```
 
 # License
-See [LICENSE.md](./LICENSE.md)
+See [LICENSE](./LICENSE.md)
 
